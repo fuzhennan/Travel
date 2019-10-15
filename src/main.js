@@ -3,9 +3,11 @@ import App from './App'
 import router from './router'
 // 解决移动端300ms点击延迟问题
 import fastClick from 'fastclick'
-import './assets/styles/reset.css'
+import 'styles/reset.css'
 // 解决一像素边框解决问题
-import './assets/styles/border.css'
+import 'styles/border.css'
+// 引入图标库文件
+import 'styles/iconfont.css'
 
 Vue.config.productionTip = false
 fastClick.attach(document.body)
