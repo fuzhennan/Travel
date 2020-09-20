@@ -1,5 +1,8 @@
 # travel
 
+## 说明
+### 这个项目是学习vue的时候看慕课网课程仿照去哪儿官网写的项目。
+
 > A Vue.js project
 
 ## Build Setup
